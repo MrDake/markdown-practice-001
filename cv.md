@@ -77,6 +77,9 @@ Programming Languages
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
+:   BLAAAAAAAAAAAAAAAAAAAAA, BLAAAAAAAAAAAAAAAAAAAAA, BLAAAAAAAAAAAAAAAAAAAAAAAA
+    truuuuuuuu-lyaaaaaaaaa-lyaaaaaaaaa
+
 [ref]: https://github.com/githubuser/superlongprojectname
 
 Extra Section, Call it Whatever You Want
