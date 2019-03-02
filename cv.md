@@ -43,7 +43,7 @@ Also with a short description.
 Technical Experience
 --------------------
 
-My Cool Side Project
+*My Cool Side Project*
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
@@ -51,14 +51,14 @@ My Cool Side Project
       indentation levels in the markdown source.
     * Second item.
 
-Open Source
+*Open Source*
 :   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
-Programming Languages
+*Programming Languages*
 :   **first-lang:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
@@ -77,8 +77,10 @@ Programming Languages
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-:   BLAAAAAAAAAAAAAAAAAAAAA, BLAAAAAAAAAAAAAAAAAAAAA, BLAAAAAAAAAAAAAAAAAAAAAAAA
-    truuuuuuuu-lyaaaaaaaaa-lyaaaaaaaaa
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
