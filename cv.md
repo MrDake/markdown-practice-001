@@ -87,12 +87,12 @@ Technical Experience
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
-* Human Languages:
+* **Human Languages**:
 
      * English (native speaker)
      * ???
      * This is what a nested list looks like.
 
-* Random tidbit
+* ###Random tidbit###
 
 * Other sort of impressive-sounding thing you did
